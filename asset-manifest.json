@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/pizzaApp/static/js/main.dbdf5f7b.chunk.js",
+    "main.js.map": "/pizzaApp/static/js/main.dbdf5f7b.chunk.js.map",
+    "runtime-main.js": "/pizzaApp/static/js/runtime-main.9f8bd778.js",
+    "runtime-main.js.map": "/pizzaApp/static/js/runtime-main.9f8bd778.js.map",
+    "static/js/2.990d43e1.chunk.js": "/pizzaApp/static/js/2.990d43e1.chunk.js",
+    "static/js/2.990d43e1.chunk.js.map": "/pizzaApp/static/js/2.990d43e1.chunk.js.map",
+    "index.html": "/pizzaApp/index.html",
+    "static/js/2.990d43e1.chunk.js.LICENSE.txt": "/pizzaApp/static/js/2.990d43e1.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/pizzaApp/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/pizzaApp/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/pizzaApp/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/pizzaApp/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/pizzaApp/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/pizzaApp/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/pizzaApp/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/pizzaApp/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f8bd778.js",
+    "static/js/2.990d43e1.chunk.js",
+    "static/js/main.dbdf5f7b.chunk.js"
+  ]
+}
